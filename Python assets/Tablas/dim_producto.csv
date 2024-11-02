@@ -1,0 +1,33 @@
+CodigoProducto,Descripcion,Categoria,Marca,PrecioCosto,PrecioVentaSugerido
+1,Laptop Gamer X200,Electrónica,TechBrand,50000,70000
+2,Auriculares Inalámbricos Z300,Accesorios,SoundMaster,1500,2500
+3,Mouse Ergonómico M500,Accesorios,ErgoTech,800,1200
+4,Teclado Mecánico K600,Accesorios,KeyKing,2000,3000
+5,Monitor Ultra HD 24",Electrónica,VisionPro,15000,22000
+6,Smartphone Modelo A12,Electrónica,PhoneCorp,20000,28000
+7,Cámara Digital Pro Z,Electrónica,FotoPlus,30000,45000
+8,Smartwatch Serie 5,Accesorios,TimeTech,2500,4000
+9,Impresora Multifuncional X1,Electrónica,PrintMax,8000,12000
+10,Altavoz Bluetooth S100,Accesorios,SoundWave,3500,5000
+11,Cargador Solar Eco,Accesorios,EcoCharge,2000,3500
+12,Tablet 10" Modelo T7,Electrónica,TabTech,12000,17000
+13,Disco Duro Externo 1TB,Electrónica,StoragePlus,4000,6000
+14,Router WiFi Doble Banda,Electrónica,NetSpeed,3000,4500
+15,Batería Externa 20000mAh,Accesorios,PowerMax,1500,2500
+16,Proyector Portátil X1,Electrónica,ProjectoPro,10000,15000
+17,Soporte para Laptop Adjustable,Accesorios,DeskEase,1000,1800
+18,Funda para Laptop 15",Accesorios,SafeCover,800,1300
+19,Webcam HD 1080p,Accesorios,VisionCam,2000,3500
+20,Cable HDMI 2m,Accesorios,CablePro,500,800
+21,Gafas de Realidad Virtual VR2,Electrónica,VRZone,12000,18000
+22,Microfono USB Profesional,Accesorios,SoundPro,4000,6000
+23,Silla Gaming Ergonómica,Muebles,GameChair,7000,10000
+24,Escritorio Compacto,Muebles,DeskWorks,12000,16000
+25,Mouse Pad XL,Accesorios,PadKing,700,1000
+26,Bolsa Térmica para Almuerzo,Accesorios,FoodSafe,500,800
+27,Reloj de Pared Digital,Electrónica,TimeMaster,1500,2500
+28,Pantalla LED 32",Electrónica,ScreenPro,12000,17000
+29,Estación de Carga Múltiple,Accesorios,ChargeHub,2500,4000
+30,Cámara de Seguridad Inalámbrica,Electrónica,SafeView,5000,7000
+
+

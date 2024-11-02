@@ -1,0 +1,31 @@
+Codigo_Cliente,Razon_Social,Telefono,Mail,Direccion,Localidad,Provincia,Cp
+1,Servicios Tecnológicos S.A.,1123456789,info@servtec.com,Calle Los Olmos 23,Madrid,Madrid,28001
+2,Comercializadora El Sol,9876543210,contacto@elsol.com,Avenida de la Paz 56,Barcelona,Barcelona,08002
+3,TecnoMuebles S.L.,1234567890,ventas@tecnomuebles.es,Calle del Comercio 12,Valencia,Valencia,46003
+4,Industrias Alimentarias J.R.,2345678901,info@indusj.r.com,Calle San Martín 89,Sevilla,Sevilla,41004
+5,Farmacia Salud y Vida,3456789012,contacto@saludyvida.com,Avenida de la Salud 45,Zaragoza,Zaragoza,50005
+6,Electrodomésticos M.A.,4567890123,ventas@electrodomesticosma.com,Calle Mayor 67,Málaga,Málaga,29006
+7,Ropa y Accesorios Moda,5678901234,info@moda.com,Calle de la Moda 32,Valencia,Valencia,46007
+8,Inmobiliaria Casa Bella,6789012345,contacto@casabella.com,Avenida de la Libertad 18,Granada,Granada,18008
+9,Constructora Paredes & Asociados,7890123456,info@paredesconstructora.com,Calle de la Construcción 21,Toledo,Toledo,45009
+10,Consultora Estrategias Efectivas,8901234567,consultas@estrategiasefectivas.com,Calle del Éxito 34,Bilbao,Bizkaia,48010
+11,Agencia de Viajes Mundo Aventura,9012345678,vacaciones@mundaventura.com,Calle de los Viajes 11,Santa Cruz,Tenerife,38011
+12,Librería El Saber,1123581321,info@elsaber.com,Avenida de la Cultura 76,Burgos,Burgos,09012
+13,Club Deportivo Atléticos,2234567890,contacto@atleticos.com,Calle del Deporte 44,Alicante,Alicante,03013
+14,Cafetería Aroma Café,3345678901,info@aromacafe.com,Calle del Café 7,Murcia,Murcia,30014
+15,Academia de Idiomas Global,4456789012,contacto@globalidiomas.com,Calle de los Idiomas 99,Salamanca,Salamanca,37015
+16,Taller Mecánico Rápido,5567890123,info@tallerrapido.com,Calle de la Reparación 22,León,León,24016
+17,Estudio de Diseño Creativo,6678901234,contacto@disenocreativo.com,Calle de la Creatividad 81,Oviedo,Asturias,33017
+18,Guardería Pequeños Exploradores,7789012345,info@pequeexploradores.com,Calle de los Niños 55,La Coruña,A Coruña,15018
+19,Frutería El Huerto,8890123456,contacto@huerto.com,Calle Frutas 12,Badajoz,Badajoz,06019
+20,Estación de Servicio Rápida,9901234567,info@serviciorapida.com,Avenida de las Gasolineras 100,Albacete,Albacete,02020
+21,Peluquería Estilo Único,1012345678,contacto@estilounico.com,Calle del Estilo 22,Cádiz,Cádiz,11021
+22,Centro de Estética Belleza Pura,2123456789,info@bellezapura.com,Calle del Cuidado 5,Ciudad Real,Ciudad Real,13022
+23,Agropecuaria Campo Verde,3234567890,contacto@campoverde.com,Avenida de la Agricultura 90,Soria,Soria,42023
+24,Consultora Legal Juris,4345678901,info@juris.com,Calle de la Ley 77,Logroño,La Rioja,26024
+25,Restaurante Gourmet Sabores,5456789012,contacto@gourmetsabores.com,Calle de la Cocina 18,Tarragona,Tarragona,43025
+26,Tiendas de Electrónica ElectroShop,6567890123,info@electroshop.com,Avenida Electrónica 34,Almería,Almería,04026
+27,Estudio Fotográfico Momentos,7678901234,contacto@momentos.com,Calle de la Foto 28,Bilbao,Bizkaia,48027
+28,Centro de Yoga Armonía,8789012345,info@armonia.com,Calle de la Paz 5,Huelva,Huelva,21028
+29,Distribuidora de Productos Ecológicos,9890123456,contacto@productosbio.com,Calle Verde 99,Tenerife,Tenerife,38029
+30,Panadería Delicias Caseras,1901234567,info@deliciascaseras.com,Calle del Pan 14,Santander,Cantabria,39030

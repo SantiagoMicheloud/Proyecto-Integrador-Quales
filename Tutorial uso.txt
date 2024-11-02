@@ -1,0 +1,13 @@
+Hola, este es el tutorial para crear la data base desde mis archivos de python.
+
+PRIMERO DEBES CREAR UNA BASE DE DATOS LLAMADA DW_DataShop en tu SQL Server Y conectarte a ella mediante mis archivos de python,  no te preocupes, solo tienes que cambiar el usuario de tu SQL Server y el nombre de la base de datos, son las primeras lineas.
+
+
+Luego tienes que Correr (EJECUTAR) El archivo que se  llama Crear Tablas.py una vez  corras eso te creara todas las tablas para la base de datos.
+
+Luego Tienes que Correr (EJECUTAR) El archive que se llama CargaCSVtoStage.py ese cargara todos los datos de los csv a las tablas stage.
+
+Y por ultimo tienes que Correr (EJECUTAR) el archive llamado StoredProcedures.py , este se encargara de crear y correr los SP de las tablas INT y FINALES para luego ya ir a tu base de datos y ver todo creado. 
+Si consultas a la fact_Ventas y no aparece nada corre de nuevo el StoredProcedure deberia funcionar.
+
+Muchas gracias por leer y espero tengas un lindo dia.

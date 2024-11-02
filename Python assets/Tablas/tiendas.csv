@@ -1,0 +1,31 @@
+codigo_Tienda,Codigo_Pais,Descripcion,Direccion,Tipo_Tienda
+1,1,Tienda de Electronica,Av. Corrientes 1234,Electrónica
+2,2,Tienda de Moda,Rua da Paz 567,Moda
+3,3,Tienda de Muebles,Calle del Sol 890,Muebles
+4,2,Tienda de Juguetes,Blvd. México 4321,Juguetes
+5,1,Tienda de Deportes,Main St. 101,Deportes
+6,1,Tienda de Comida,Rivadavia 2345,Alimentación
+7,2,Tienda de Tecnologia,Avenida Brasil 678,Electrónica
+8,3,Tienda de Accesorios,Calle de la Luna 345,Accesorios
+9,2,Tienda de Cosméticos,Avenida Reforma 789,Cosméticos
+10,1,Tienda de Ropa,1st Ave 222,Moda
+11,1,Tienda de Libros,Calle Libertad 1111,Librería
+12,2,Tienda de Joyeria,Rua dos Sonhos 456,Joyería
+13,3,Tienda de Herramientas,Calle del Fuego 333,Herramientas
+14,2,Tienda de Mascotas,Avenida Animal 654,Mascotas
+15,1,Tienda de Juguetes,2nd St. 789,Juguetes
+16,1,Tienda de Muebles,Calle de los Árboles 123,Muebles
+17,2,Tienda de Electronica,Avenida das Américas 987,Electrónica
+18,3,Tienda de Moda,Calle de la Esperanza 543,Moda
+19,2,Tienda de Deportes,Calle de la Paz 321,Deportes
+20,1,Tienda de Comida,Main St. 456,Alimentación
+21,1,Tienda de Accesorios,Calle del Rio 678,Accesorios
+22,2,Tienda de Cosméticos,Rua do Amor 234,Cosméticos
+23,3,Tienda de Ropa,Calle del Mar 876,Moda
+24,2,Tienda de Joyeria,Calle de la Luz 543,Joyería
+25,1,Tienda de Herramientas,3rd Ave 321,Herramientas
+26,1,Tienda de Mascotas,Calle Verde 789,Mascotas
+27,2,Tienda de Juguetes,Rua da Alegria 456,Juguetes
+28,3,Tienda de Electronica,Calle de la Ciencia 234,Electrónica
+29,2,Tienda de Muebles,Avenida del Hogar 567,Muebles
+30,1,Tienda de Tecnologia,4th St. 890,Electrónica
